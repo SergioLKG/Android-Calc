@@ -11,9 +11,5 @@ Android Basic-Calculator
    * When the number has decimals, it will disappear in the "last operation" text.
    * The interface is not the best, it could be more responsive.
 
-![image](https://github.com/SergioLKG/Android-Calc/assets/87675908/69ed96ca-e6dc-4f19-9cf6-cf7c9f73ee2e)
-
-![image](https://github.com/SergioLKG/Android-Calc/assets/87675908/2cc9fe6b-680f-4520-a7e7-0e9d66e3a8b7)
-
-![image](https://github.com/SergioLKG/Android-Calc/assets/87675908/27915746-5614-460a-baa6-6f16991b3528)
+![image](https://github.com/SergioLKG/Android-Calc/assets/87675908/b7e63528-6b5c-48fa-9e44-5e40c829eb60)![image](https://github.com/SergioLKG/Android-Calc/assets/87675908/8f779eed-cf0e-4a55-abd0-473bda4269d3)![image](https://github.com/SergioLKG/Android-Calc/assets/87675908/27915746-5614-460a-baa6-6f16991b3528)
 
