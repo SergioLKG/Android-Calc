@@ -3,7 +3,7 @@ Android Basic-Calculator
 
 # This is an educational project for creating a calculator in Android Studio using Java.
 * Characteristics: 
- * Can handle multiple operations concurrently
+   * Can handle multiple operations concurrently
  * Handle errors, Syntax Error, NaN and "Can't /0" 
  * View of the last operation.
 
